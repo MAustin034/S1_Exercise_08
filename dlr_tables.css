@@ -27,6 +27,9 @@ table.schedule {
 table.schedule th,
 table.schedule td {
     border: 1px solid gray;
+    padding: 5px; 
+    vertical-align: top;
+
 }
 
 
